@@ -1,5 +1,5 @@
 header {
-    background-color: transparent;
+    background-color: #eec801;
     color: #404040; 
     padding: 1em; 
     width: 100%; 
@@ -7,7 +7,7 @@ header {
     top: 0; 
     text-align: center;
     z-index: 99;
-    box-shadow: 2px 2px 2px 2px #40404050;
+    box-shadow: 2px 2px 2px 2px #40404041;
 } 
 
 img {
