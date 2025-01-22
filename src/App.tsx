@@ -8,7 +8,6 @@ function App() {
     <>
     <Header />
 
-    <h1>Min bokhylla</h1>
     <Book />
     
     <Footer />

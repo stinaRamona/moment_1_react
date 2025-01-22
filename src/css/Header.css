@@ -1,0 +1,16 @@
+header {
+    background-color: transparent;
+    color: #404040; 
+    padding: 1em; 
+    width: 100%; 
+    position: fixed;
+    top: 0; 
+    text-align: center;
+    z-index: 99;
+    box-shadow: 2px 2px 2px 2px #40404050;
+} 
+
+img {
+    width: 100%;
+    z-index: 1; 
+}
