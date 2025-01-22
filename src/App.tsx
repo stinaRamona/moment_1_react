@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-    <Header />
+    <Header sitename={"Min Bokhylla"} />
 
     {bookArr.map((book, index) => (
       <Book title={book.title} author={book.author} published={book.published} read={book.read} key={index} />
